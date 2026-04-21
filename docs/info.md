@@ -25,4 +25,5 @@ Set the inputs and check the outputs match with the expected results:
 |1 0 0	            |1           |0            |
 |1 0 1	            |0           |1            |
 |1 1 1	            |0           |1            |
+
 Set the clock to 0kHz.
